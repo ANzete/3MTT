@@ -1,18 +1,19 @@
 # 3MTT
-1. Visual Studio Code (VScode)
-![image](https://github.com/user-attachments/assets/1d5e2379-4507-404c-9c72-349e6c9015d7)
+![image](https://github.com/user-attachments/assets/1145af60-1b32-4b3f-a2d9-10552268d4e1)
 
-2. Git
-![image](https://github.com/user-attachments/assets/bf7f70ff-e272-4b90-b8a2-ecccd1fd663d)
 
-3. Oracle Virtual Box
-![image](https://github.com/user-attachments/assets/bc619114-aa83-4e4d-9f84-7342256700fb)
+![image](https://github.com/user-attachments/assets/1aabddd1-e98b-4261-bb08-1b36ccbcd2cc)
 
-4. Ubuntu Login
-![image](https://github.com/user-attachments/assets/6eede6f6-7f90-4fe7-8a88-1099d39001c6)
 
-5. GitHub User Account
-![image](https://github.com/user-attachments/assets/592b5040-3b6f-49f7-8eb7-20f82cfa2212)
+![image](https://github.com/user-attachments/assets/4e6d3e2a-291b-41ee-935f-0bd7e13430f0)
 
-6. AWS User Account
-![image](https://github.com/user-attachments/assets/7ae803bc-7757-4c7f-9e2a-22d1640e59b1)
+
+![image](https://github.com/user-attachments/assets/a579a808-6cfe-4410-b771-7c62e1fa9688)
+
+
+![image](https://github.com/user-attachments/assets/d4c05988-89c8-478c-a9b7-dc81f5024bfc)
+
+
+![image](https://github.com/user-attachments/assets/b1086d01-a646-40f6-87ea-864fedb4758f)
+
+![image](https://github.com/user-attachments/assets/db361148-793c-4417-95f8-a5ebeaf4a966)
